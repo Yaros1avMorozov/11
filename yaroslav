@@ -1,4 +1,3 @@
-echo "# My Project" > README.md
-git add README.md
-git commit -m "Add initial README"
-git push
+Морозов Ярослав
+исп-254
+лаб-2
